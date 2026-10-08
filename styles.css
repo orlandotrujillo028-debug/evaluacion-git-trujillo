@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+}
+
+.container {
+    max-width: 600px;
+    margin: 60px auto;
+    padding: 24px;
+    background: white;
+}
+
+button {
+    padding: 10px 16px;
+    cursor: pointer;
+}
